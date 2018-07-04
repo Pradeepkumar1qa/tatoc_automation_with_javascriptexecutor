@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testwitcmd" verbose="1">
+	<test name="test">
+		<packages>
+			<package name="com.qait.automation.simplemavendemowithcmd.*">
+
+			</package>
+
+		</packages>
+
+	</test>
+</suite>
